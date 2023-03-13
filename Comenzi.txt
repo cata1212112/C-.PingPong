@@ -1,0 +1,3 @@
+W/S pentru playerul din stanga.
+Up/Down pentru playerul din drepata.
+Enter pentru a reseta mingea in caz ca se intampla ceva bug.
